@@ -6,6 +6,12 @@
 
 This project aims to create an image caption generator using deep learning techniques. The model is based on a combination of Convolutional Neural Network (CNN) and Long Short-Term Memory (LSTM) networks.
 
+# Block Diagram
+
+![image](https://github.com/akash142306/ML_PROJECT/assets/125787421/9fa9d99d-b542-4054-b2ce-36cc628768ac)
+
+
+
 ## Requirements
 - Python (>=3.6)
 - TensorFlow (>=2.0)
