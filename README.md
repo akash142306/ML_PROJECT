@@ -93,7 +93,7 @@ python test_model.py --image <path_to_sample_image>
 - Islauddin 
 - Savan Sutariya
 - Tejal Mate
-- Utkarsha kale
+- Utkarsha Kale
 - Agastya Bhardwaj
 - Rushikesh Bhise
 - Devendra Pardhi
